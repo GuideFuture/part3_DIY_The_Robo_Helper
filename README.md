@@ -57,7 +57,8 @@ Web Interface: Συνδέεται στο Wi-Fi και βλέπεις την κα
 Διάβασε το αναλυτικό άρθρο στο blog: https://travletothefurureprogramming.blogspot.com/
 
 ## 🧠 Επόμενα μέρη
-- 
+- Ο Νέος Προγραμματιστής: Πώς αλλάζει ο ρόλος του developer στον κόσμο του AI
+- Το σχολείο του αύριο: Πώς η τεχνολογία μεταμορφώνει τη μάθηση
 
 ## 📫 Επικοινωνία
 Για απορίες ή προτάσεις: travletothefurureprogramming@gmail.com
